@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1563951494939
+Build-Jdk: 1.8.0_144
+Built-By: senthuran
+Bundle-ManifestVersion: 2
+Bundle-Name: com.wso2.sample.authentification.custom
+Bundle-SymbolicName: com.wso2.sample.authentification.custom
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+DynamicImport-Package: *
+Export-Package: com.wso2.sample.authentification.custom;version="1.0.0.S
+ NAPSHOT"
+Tool: Bnd-2.1.0.20130426-122213
