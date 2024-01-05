@@ -140,7 +140,7 @@
         <commons-lang.version>2.6</commons-lang.version>
         <org.wso2.carbon.logging.version>4.4.35</org.wso2.carbon.logging.version>
         <org.wso2.carbon.core.version>4.4.35</org.wso2.carbon.core.version>
-        <org.wso2.carbon.identity.application.authentication.framework.version>5.12.153</org.wso2.carbon.identity.application.authentication.framework.version>
+        <org.wso2.carbon.identity.application.authentication.framework.version>5.20.254</org.wso2.carbon.identity.application.authentication.framework.version>
         <org.wso2.carbon.utils.version>4.4.35</org.wso2.carbon.utils.version>
         <org.osgi.service.component.annotations.version>1.4.0</org.osgi.service.component.annotations.version>
         <org.osgi.service.component.version>1.2.0</org.osgi.service.component.version>
